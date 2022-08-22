@@ -1,4 +1,4 @@
-public class InterestCalc {
+public class Calculate {
 
     public int data (int sum, int time, double rate) {
         double monthly = time*12.0;
